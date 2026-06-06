@@ -2,5 +2,7 @@
 name = "agent-jam"
 version = "0.1.0"
 edition = "2024"
+description = "agent-jam"
+license = "MIT"
 
 [dependencies]
